@@ -1,16 +1,15 @@
-### Hi there 👋
+```js
+import SoftwareEngineeringStudent from 'leo-r-jia';
 
-<!--
-**leo-r-jia/leo-r-jia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bio extends SoftwareEngineeringStudent {
+  name     = 'Leo Jia';
+  title    = 'Software Engineering Student';
+  location = 'Auckland, NZ';
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['Java', 'C++', 'C', 'Python', 'MATLAB', 'SQL', 'Bash'];
+  otherTechnologies = ['React', 'Visual Studio Code', 'Apache Netbeans', 'Git', 'Oracle'];
+  learning = ['JavaScript', 'HTML', 'CSS', 'AWS', 'Pulumi'];
+}
+```
