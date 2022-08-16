@@ -14,7 +14,7 @@ class Skills extends SoftwareEngineeringStudent {
 }
 
 class Social extends SoftwareEngineeringStudent {
-  //I'm always interested in meeting new people, so feel free to reach out to me on LinkedIn
+  //I'm always interested in meeting new people and learning more, so feel free to reach out to me on LinkedIn
   linkedin = 'leo-r-jia';
 }
 ```
