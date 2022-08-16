@@ -3,6 +3,7 @@ import SoftwareEngineeringStudent from 'leo-r-jia';
 
 class Bio extends SoftwareEngineeringStudent {
   name     = 'Leo Jia';
+  pronouns = ['He', 'Him'];
   title    = 'Software Engineering Student';
   location = 'Auckland, NZ';
 }
