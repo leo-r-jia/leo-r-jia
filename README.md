@@ -16,6 +16,6 @@ class Skills extends SoftwareEngineeringStudent {
 
 class Social extends SoftwareEngineeringStudent {
   //I'm always interested in meeting new people and learning more, so feel free to reach out to me on LinkedIn
-  linkedin = 'leo-r-jia';
+  linkedin = 'linkedin.com/in/leo-r-jia/';
 }
 ```
