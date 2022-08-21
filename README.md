@@ -11,7 +11,7 @@ class Bio extends SoftwareEngineeringStudent {
 class Skills extends SoftwareEngineeringStudent {
   languages  = ['Java', 'C++', 'C', 'Python', 'MATLAB', 'SQL', 'Bash'];
   otherTechnologies = ['React', 'Visual Studio Code', 'Apache Netbeans', 'Git', 'Oracle'];
-  learning = ['JavaScript', 'HTML', 'CSS', 'AWS', 'Pulumi'];
+  learning = ['JavaScript', 'AWS', 'Pulumi'];
 }
 
 class Social extends SoftwareEngineeringStudent {
